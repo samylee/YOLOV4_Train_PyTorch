@@ -40,7 +40,7 @@ wget https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optim
 ```shell script
 python train.py
 ```
-已训练好的模型：[百度云(提取码:8888)](https://pan.baidu.com/s/1EWAH2-35Onh0y2lnY7p-yA)
+已训练好的模型：[百度云(提取码:8888)](https://pan.baidu.com/s/1_UVJ_XSYfsGFA3GZVZ52Rw)
 ```shell script
 python detect.py
 ```
