@@ -4,10 +4,10 @@
 ## 指标展示
 |Model| train | test | net_size | mAP@0.5 | mAP@0.75 | FPS |
 |-----|------|------|-----|-----|-----|-----|
-|yolov4(train from Darknet-AlexeyAB) | 0712 |	2007_test | 416 |	86.05 |	67.09 |	55 |
-|**yolov4(ours)** | 0712 |	2007_test | 416 |	**86.85** |	**68.14** |	**55** |
-|**yolov4(yolov5-loss)** | 0712 |	2007_test | 416 |	**88.74** |	**74.93** |	**55** |
-|**yolov4(yolov5-loss + ema)** | 0712 |	2007_test | 416 |	**89.22** |	**74.96** |	**55** |
+|yolov4(train from Darknet-AlexeyAB) | 0712 |	2007_test | 416x416 |	86.05 |	67.09 |	55 |
+|**yolov4(ours)** | 0712 |	2007_test | 416x416 |	**86.85** |	**68.14** |	**55** |
+|**yolov4(yolov5-loss)** | 0712 |	2007_test | 416x416 |	**88.74** |	**74.93** |	**55** |
+|**yolov4(yolov5-loss + ema)** | 0712 |	2007_test | 416x416 |	**89.22** |	**74.96** |	**55** |
 
 ## 效果展示
 <img src="assets/result1.jpg" width="400" height="260"/>   <img src="assets/result2.jpg" width="400" height="260"/>   
