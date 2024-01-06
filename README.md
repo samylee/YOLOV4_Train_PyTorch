@@ -7,6 +7,7 @@
 |yolov4(train from Darknet-AlexeyAB) | 0712 |	2007_test |	86.05 |	67.09 |	55 |
 |**yolov4(ours)** | 0712 |	2007_test |	**86.85** |	**68.14** |	**55** |
 |**yolov4(yolov5-loss)** | 0712 |	2007_test |	**88.74** |	**74.93** |	**55** |
+|**yolov4(yolov5-loss + ema)** | 0712 |	2007_test |	**89.22** |	**74.96** |	**55** |
 
 ## 效果展示
 <img src="assets/result1.jpg" width="400" height="260"/>   <img src="assets/result2.jpg" width="400" height="260"/>   
